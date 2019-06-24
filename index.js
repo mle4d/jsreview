@@ -17,3 +17,5 @@ console.log(dog);
 //     age,
 //     weight
 //   });
+
+module.exports = createDog;
